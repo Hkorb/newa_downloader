@@ -7,6 +7,7 @@ repos:
   rev: v1.2.0
   hooks:
   - id: mypy
+    args: [--ignore-missing-imports]
 - repo: https://github.com/charliermarsh/ruff-pre-commit 
   rev: v0.0.261
   hooks:
