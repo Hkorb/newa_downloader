@@ -4,7 +4,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List
 
-import requests  # type: ignore
+import requests
 
 BASE_URL = "https://wps.neweuropeanwindatlas.eu/api"
 SUCCESS_CODE = 200
