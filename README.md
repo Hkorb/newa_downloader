@@ -6,7 +6,7 @@ It is by no means complete or very robust, but should do its job.
 ## Installation
 
 Install via 
-``pip install NEWA_downloader`` or 
+``pip install newa-downloader`` or 
 ```
 git clone https://github.com/Hkorb/newa_downloader
 cd newa_downloader && pip install .
